@@ -6,17 +6,17 @@
 (Illustration)[https://blush.design]
 
 #### Some Flutter packages I used
-(Animate Do)[https://pub.dev/packages/animate_do]
+- (Animate Do)[https://pub.dev/packages/animate_do]
 
-(Google Fonts)[https://pub.dev/packages/google_fonts]
+- (Google Fonts)[https://pub.dev/packages/google_fonts]
 
-(Modal Bottom Sheet)[https://pub.dev/packages/modal_bottom_sheet]
+- (Modal Bottom Sheet)[https://pub.dev/packages/modal_bottom_sheet]
 
-(Badge)[https://pub.dev/packages/badges]
+- (Badge)[https://pub.dev/packages/badges]
 
-(Page Transition)[https://pub.dev/packages/page_transition]
+- (Page Transition)[https://pub.dev/packages/page_transition]
 
-(Bubble)[https://pub.dev/packages/bubble]
+- (Bubble)[https://pub.dev/packages/bubble]
 
 
 #### Author: Max Bryan C. Bauzon
