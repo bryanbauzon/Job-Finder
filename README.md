@@ -7,10 +7,15 @@
 
 #### Some Flutter packages I used
 (Animate Do)[https://pub.dev/packages/animate_do]
+
 (Google Fonts)[https://pub.dev/packages/google_fonts]
+
 (Modal Bottom Sheet)[https://pub.dev/packages/modal_bottom_sheet]
+
 (Badge)[https://pub.dev/packages/badges]
+
 (Page Transition)[https://pub.dev/packages/page_transition]
+
 (Bubble)[https://pub.dev/packages/bubble]
 
 
