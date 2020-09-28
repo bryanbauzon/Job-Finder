@@ -3,7 +3,7 @@
 #UIChallenge is a mini prototyping challenge made for the community. The main goal of this challenge is to create a working prototype, a minimum of 1 screen, on any platform that Flutter supports.
 
 #### Reference for Illustrations
-(Illustration)[https://blush.design]
+[Illustration](https://blush.design)
 
 #### Some Flutter packages I used
 - [Animate Do](https://pub.dev/packages/animate_do)
