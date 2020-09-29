@@ -23,6 +23,9 @@
 
 - [Bubble](https://pub.dev/packages/bubble)
 
+#### apk file
+https://drive.google.com/file/d/1sngKvrTdQ1zITMq9GTuO4gwAtPPPyexa/view?usp=sharing
+
 
 #### Author: Max Bryan C. Bauzon
 
